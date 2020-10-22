@@ -1,0 +1,4 @@
+﻿  Origem.c
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\HexagonoEx4\HexagonoEx4\Origem.c(6,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\HexagonoEx4\HexagonoEx4\Origem.c(25,8): warning C4013: 'system' indefinido; assumindo extern retornando int
+  HexagonoEx4.vcxproj -> C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\HexagonoEx4\x64\Debug\HexagonoEx4.exe
